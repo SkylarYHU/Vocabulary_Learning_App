@@ -33,6 +33,9 @@ This application is designed to help users learn and test their knowledge of voc
 
 ## Screenshots
 ![Project Screenshot](Screenshots/Screenshot_1.png)
+![Project Screenshot](Screenshots/Screenshot_2.png)
+![Project Screenshot](Screenshots/Screenshot_3.png)
+![Project Screenshot](Screenshots/Screenshot_4.png)
 
 ## Author
 
