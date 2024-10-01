@@ -31,6 +31,9 @@ This application is designed to help users learn and test their knowledge of voc
 2. Enter a new word and its synonyms (separated by commas).
 3. Click **Submit** to add the new word to the game.
 
+## Screenshots
+![Project Screenshot](Screenshots/Screenshot_1.png)
+
 ## Author
 
 Yanan Hu (aka. Skylar Hu)  
